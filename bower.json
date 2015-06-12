@@ -1,0 +1,20 @@
+{
+  "name": "angularcodeschool",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jacobarriola/angular",
+  "authors": [
+    "Jacob Arriola <jacob.arriola@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-latest": "~1.4.0",
+    "bootstrap": "~3.3.4"
+  }
+}
