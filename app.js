@@ -8,10 +8,18 @@ var app = angular.module('store',[]);
   var gems = [
     {
       name: 'Dodecahedron',
-      price: 2.95,
+      price: 2,
       description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit',
       canPurchase: false,
       soldOut: false,
+      images:
+        [
+        'http://placehold.it/400x400',
+        'http://placehold.it/50x50',
+        'http://placehold.it/50x50',
+        'http://placehold.it/50x50',
+        'http://placehold.it/50x50'
+        ],
     },
     {
       name: 'Jake',
